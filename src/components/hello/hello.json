@@ -1,0 +1,28 @@
+{
+  "collectionName": "components_hello_hellos",
+  "info": {
+    "displayName": "hello",
+    "icon": "alien"
+  },
+  "options": {},
+  "attributes": {
+    "qwertyu": {
+      "type": "string"
+    },
+    "u123": {
+      "type": "string"
+    },
+    "qwcvm": {
+      "type": "boolean"
+    },
+    "ewwww": {
+      "type": "richtext"
+    },
+    "qwerty": {
+      "type": "component",
+      "component": "qwerty.qwerty",
+      "repeatable": false
+    }
+  },
+  "config": {}
+}

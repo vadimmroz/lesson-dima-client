@@ -1,0 +1,32 @@
+{
+  "kind": "collectionType",
+  "collectionName": "tres",
+  "info": {
+    "singularName": "tre",
+    "pluralName": "tres",
+    "displayName": "tre"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "qwert": {
+      "type": "component",
+      "component": "qwerty.qwerty",
+      "repeatable": true
+    },
+    "color": {
+      "type": "customField",
+      "customField": "plugin::color-picker.color"
+    },
+    "country": {
+      "type": "customField",
+      "customField": "plugin::country-select.country"
+    },
+    "location": {
+      "type": "customField",
+      "customField": "plugin::google-maps.location-picker"
+    }
+  }
+}
