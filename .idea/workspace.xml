@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e35b9834-ab9d-4eac-876a-78422e0a2d3f" name="Changes" comment="123">
+      <change afterPath="$PROJECT_DIR$/client/vite.config.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "vadimZalozniy"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/vadimmroz/lesson-dima-client.git",
+    "accountId": "b53c1130-fa71-48a7-a4c5-d17420ce5a42"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2uGxyjeIKubNm27uJIaV8MVpic1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "javascript.nodejs.core.library.configured.version": "18.20.5",
+    "javascript.nodejs.core.library.typings.version": "18.19.87",
+    "last_opened_file_path": "/Users/admin/WebstormProjects/lesson-dima/public",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "settings.vue",
+    "ts.external.directory.path": "/Applications/WebStorm.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/client" />
+      <recent name="$PROJECT_DIR$/server/api/auth" />
+      <recent name="$PROJECT_DIR$/components/app-card" />
+      <recent name="$PROJECT_DIR$/components" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-WS-243.22562.222" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e35b9834-ab9d-4eac-876a-78422e0a2d3f" name="Changes" comment="" />
+      <created>1741888969234</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1741888969234</updated>
+      <workItem from="1741888970703" duration="4557000" />
+      <workItem from="1742403838419" duration="3698000" />
+      <workItem from="1742493665007" duration="3547000" />
+      <workItem from="1743609726374" duration="3783000" />
+      <workItem from="1743864977643" duration="5080000" />
+      <workItem from="1743955349920" duration="31000" />
+      <workItem from="1744042427290" duration="12000" />
+      <workItem from="1744214918158" duration="3000" />
+      <workItem from="1744214929372" duration="7494000" />
+      <workItem from="1744304583353" duration="2921000" />
+      <workItem from="1744473774547" duration="3947000" />
+      <workItem from="1744819346354" duration="4795000" />
+      <workItem from="1744909204679" duration="5818000" />
+      <workItem from="1745424310191" duration="3633000" />
+      <workItem from="1745480853264" duration="16000" />
+      <workItem from="1745514162090" duration="3893000" />
+      <workItem from="1745581010665" duration="7000" />
+      <workItem from="1745683328190" duration="4290000" />
+      <workItem from="1745926806079" duration="2675000" />
+      <workItem from="1746119064656" duration="4656000" />
+      <workItem from="1746374639250" duration="4274000" />
+      <workItem from="1746633820768" duration="8554000" />
+      <workItem from="1746724471697" duration="1218000" />
+      <workItem from="1746725706160" duration="3999000" />
+      <workItem from="1747238579820" duration="4814000" />
+      <workItem from="1747326962133" duration="4600000" />
+      <workItem from="1747846991130" duration="3849000" />
+      <workItem from="1747850859956" duration="27000" />
+      <workItem from="1747933518794" duration="5624000" />
+      <workItem from="1748451909514" duration="2113000" />
+      <workItem from="1748454099260" duration="4040000" />
+      <workItem from="1748538330777" duration="4268000" />
+      <workItem from="1749053094396" duration="2604000" />
+      <workItem from="1749055927874" duration="2180000" />
+      <workItem from="1749662200521" duration="2752000" />
+    </task>
+    <task id="LOCAL-00001" summary="123">
+      <option name="closed" value="true" />
+      <created>1749055210231</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1749055210231</updated>
+    </task>
+    <task id="LOCAL-00002" summary="123">
+      <option name="closed" value="true" />
+      <created>1749662271032</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1749662271033</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="123" />
+    <option name="LAST_COMMIT_MESSAGE" value="123" />
+  </component>
+</project>
